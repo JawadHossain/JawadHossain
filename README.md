@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @JawadHossain
-- 👀  I’m interested in Artificial Intelligence, Machine Learning, Data Science and Competitive Programming
-- 🌱  I’m currently working at IBM as a SWAT Developer Intern
+- 👀  I’m interested in Backend development, Artificial Intelligence, Machine Learning and Competitive Programming
+- 🌱  I’m currently working at IBM as a Software Developer Intern
 - 📫  Contact me at: jhossain@ualberta.ca
 <!--- 💞️ I’m looking to collaborate on ... -->
 <!---
